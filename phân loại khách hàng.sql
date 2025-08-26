@@ -40,19 +40,7 @@ FROM RECENCY R
 JOIN FREQUENCY F ON R.CUSTOMERID = F.CUSTOMERID
 JOIN MONETARY M ON R.CUSTOMERID = M.CUSTOMERID
 ORDER BY CUSTOMER DESC
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
 WITH raw_rfm AS (
     SELECT *,
            CASE 
@@ -75,3 +63,4 @@ WITH raw_rfm AS (
            END AS M
     FROM rfm_base_data
 )
+
