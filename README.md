@@ -9,3 +9,4 @@ https://drive.google.com/drive/folders/10qSJdaePXlBQ7ZrtcTXx_6IOLMYU5k6X?usp=sha
 
 ---
 ## Dashboard phân tích
+https://public.tableau.com/views/Final1_17567895098010/Theohnhvi?:language=fr-FR&fbclid=IwY2xjawQbJrhleHRuA2FlbQIxMABicmlkETFTVHlkcnZkNExac1RiTkFzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHg3Ayvj1uT-2XePb4PaKfe_iKTP33eSOj6uE6NLQJBp4tSdcG-CMlP7Q5oLH_aem_OnlvpFERg-KKQZ_x75_4zQ&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
